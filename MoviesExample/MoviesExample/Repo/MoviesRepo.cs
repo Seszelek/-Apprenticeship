@@ -32,14 +32,13 @@ namespace MoviesExample.Repo
 
         public IEnumerable<Movie> GetMovieGenre(string filmGenre)
         {
-            return movies.Where(movies => movies.FilmGenre.Equals(filmGenre));
+            return movies.Where(movies => movies.FilmGenre.Equals(filmGenre, StringComparison.CurrentCultureIgnoreCase));
         }
     }
 }
 
 
 /* example to add
- "id": 4,
  "title": "The Godfather",
  "filmGenre": "Drama",
  "director": "Francis Ford Coppola",
