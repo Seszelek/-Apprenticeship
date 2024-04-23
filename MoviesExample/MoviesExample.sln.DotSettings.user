@@ -9,6 +9,9 @@
     &lt;TestId&gt;NUnit3x::62DF4AAC-1470-46D9-B61A-98A1048A96A4::net8.0::TestMovieExample.Tests.TestCheckIfThisFilmIsInBase&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d26aa3b_002D43c9_002D4c58_002Daeea_002D2bb253372ff6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d26aa3b_002D43c9_002D4c58_002Daeea_002D2bb253372ff6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFile&gt;62DF4AAC-1470-46D9-B61A-98A1048A96A4/f:UnitTest1.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e8f310b_002D7e99_002D4075_002Dbca4_002Dbe9b342eb201/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetMovieGenre_ReturnsMoviesFromGivenGenre" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\asiat\Documents\GitHub\Apprenticeship\MoviesExample\TestMovieExample" Presentation="&amp;lt;TestMovieExample&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
