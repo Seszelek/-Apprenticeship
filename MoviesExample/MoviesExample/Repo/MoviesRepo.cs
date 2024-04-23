@@ -10,6 +10,20 @@ namespace MoviesExample.Repo
             new Movie ("The Silence of the Lambs", "Thriller", "Jonathan Demme", 1991),
             new Movie ("Avatar", "Science Fiction", "James Cameron", 2009)
         };
+        
+        public bool IsMovieInDatabase(string title)
+        {
+            foreach (var movie in movies)
+            {
+                if (movie.Title.Equals(title))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+    
+        
         public void AddNewMovie(Movie movie)
         {
             movies.Add(movie);
